@@ -8,10 +8,6 @@ This project is a simple Library Management System designed to manage books, aut
 - [Features](#features)
 - [Database Schema](#database-schema)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Queries](#queries)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
